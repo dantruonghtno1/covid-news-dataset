@@ -1,0 +1,3 @@
+https://zingnews.vn//robot-phat-hien-va-nhac-nho-nguoi-khong-deo-khau-trang-post1081767.html
+Robot phát hiện và nhắc nhở người không đeo khẩu trang
+Về nguyên lý hoạt động, thầy Hoàng Anh cho biết: "Thông qua bộ phận cảm biến trên mắt robot, hình ảnh sẽ được thu trực tiếp và máy tính sẽ phân tích trên cơ sở đã lập trình sẵn. Nếu robot chỉ nhận diện được mắt và mũi nhưng không thấy miệng chứng tỏ người đó có đeo khẩu trang còn ngược lại nếu robot nhận diện đủ cả mắt mũi và miệng thì người đó đang không đeo khẩu trang. Lập tức robot sẽ lưu lại hình ảnh và phát ra lời nhắc nhở đeo khẩu trang đúng cách".
